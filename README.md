@@ -27,14 +27,6 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-whoami: Siddhartha
-role: CS Undergraduate
-focus: [Software Engineering, Competitive Programming, AI/ML]
-currently: Building projects that solve real problems 🚀
-fun_fact: I enjoy understanding how things work under the hood ⚡
-```
-
 - 🎓 Computer Science undergraduate
 - 💻 Interested in software engineering and problem solving
 - 🧠 Competitive programming enthusiast
@@ -60,21 +52,6 @@ fun_fact: I enjoy understanding how things work under the hood ⚡
 **Tools:** Git, GitHub, Figma, VS Code
 
 </details>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Siddharthaa19&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthaa19&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Siddharthaa19&hide_border=true&theme=tokyonight" />
-</p>
-
-> **Note:** `count_private=true` only shows on the stats card once you add a `GH_TOKEN` secret pointing at the [maintained stats fork](https://github.com/anuraghazra/github-readme-stats#deploy-your-own-instance-recommended) — otherwise GitHub silently omits private contributions.
 
 ---
 
