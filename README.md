@@ -68,15 +68,11 @@ https://github.com/Platane/snk — it generates a snake.svg you can embed here.
 
 ---
 
-## 🏆 GitHub Trophies
+## 💻 Competitive Programming
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siddharthaa19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=800&color=FFA116&center=true&vCenter=true&width=500&lines=Codeforces;CodeChef;LeetCode;HackerRank" alt="Platforms" />
 </p>
-
----
-
-## 💻 Competitive Programming
 
 <p align="center">
   <a href="https://codeforces.com/profile/ksiddhartha19">
