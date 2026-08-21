@@ -90,8 +90,22 @@ https://github.com/Platane/snk — it generates a snake.svg you can embed here.
 </p>
 
 <p align="center">
+  <a href="https://codeforces.com/profile/ksiddhartha19">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ksiddhartha19" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/ksiddhartha19">
+    <img src="https://codechef-readme-stats.onrender.com/ksiddhartha19?v=1" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/siddhartha_koona?theme=dark&font=baloo&ext=heatmap" />
 </p>
+
+> **Note:** The CodeChef card runs on a free Render instance, so it can take 20–30s to wake up on the first load after inactivity — refresh if it looks blank. There isn't a reliable live-URL stats card for HackerRank yet, so that one stays badge-only above.
 
 ---
 
