@@ -113,7 +113,7 @@ https://github.com/Platane/snk — it generates a snake.svg you can embed here.
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/k-siddhartha">
+  <a href="https://www.linkedin.com/in/siddharthakoona/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
   &nbsp;&nbsp;
